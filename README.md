@@ -8,7 +8,7 @@
 
 - **To segment, RFM analysis will be used.** *Segmentlere ayırmak için RFM analizi kullanılacaktır.*
 
----
+
 
 ## Data Set Story (Veri Seti Hikayesi)
 
@@ -32,4 +32,4 @@
 
 - **Country** : (Ülke)
 
----
+
